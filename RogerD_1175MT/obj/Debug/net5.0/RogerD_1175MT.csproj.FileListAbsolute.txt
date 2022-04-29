@@ -1,0 +1,16 @@
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\bin\Debug\net5.0\RogerD_1175MT.exe
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\bin\Debug\net5.0\RogerD_1175MT.deps.json
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\bin\Debug\net5.0\RogerD_1175MT.runtimeconfig.json
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\bin\Debug\net5.0\RogerD_1175MT.runtimeconfig.dev.json
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\bin\Debug\net5.0\RogerD_1175MT.dll
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\bin\Debug\net5.0\ref\RogerD_1175MT.dll
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\bin\Debug\net5.0\RogerD_1175MT.pdb
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\obj\Debug\net5.0\RogerD_1175MT.csproj.AssemblyReference.cache
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\obj\Debug\net5.0\RogerD_1175MT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\obj\Debug\net5.0\RogerD_1175MT.AssemblyInfoInputs.cache
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\obj\Debug\net5.0\RogerD_1175MT.AssemblyInfo.cs
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\obj\Debug\net5.0\RogerD_1175MT.csproj.CoreCompileInputs.cache
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\obj\Debug\net5.0\RogerD_1175MT.dll
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\obj\Debug\net5.0\ref\RogerD_1175MT.dll
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\obj\Debug\net5.0\RogerD_1175MT.pdb
+C:\Users\roger\Dropbox\Documentos Roger Augusto\POSTGRADUATE DOUGLAS COLLEGE\FALL 2021\Introduction to Programming\RogerD_1175MT\RogerD_1175MT\obj\Debug\net5.0\RogerD_1175MT.genruntimeconfig.cache
